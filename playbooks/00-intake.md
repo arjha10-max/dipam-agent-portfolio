@@ -101,7 +101,7 @@ Create:
 campaigns/<slug>/00-intake/brief-readiness-summary.md
 ```
 
-Use `templates/brief-readiness-summary.md` when it exists.
+Use `templates/brief-readiness-summary.md`.
 
 ## Output template
 
