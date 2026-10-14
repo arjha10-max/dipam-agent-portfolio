@@ -1,2 +1,1 @@
 test_id,priority,learning_question,hypothesis,profile_name,channel,platform_or_vendor,variable,control,test_cell,metric,decision_threshold,market,phase,budget_or_impression_requirement,owner,action_if_successful,action_if_unsuccessful,confidence
-,,,,,,,,,,,,,,,,,,
