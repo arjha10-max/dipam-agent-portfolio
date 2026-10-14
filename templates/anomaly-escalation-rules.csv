@@ -1,2 +1,2 @@
 rule_id,metric,condition,threshold,severity,detection_source,business_impact,immediate_action,escalation_owner,approval_needed,status,notes
-,,,,,,,,,,
+,,,,,,,,,,,
