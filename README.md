@@ -1,6 +1,6 @@
 # DIPAM Agent Portfolio
 
-A brief-driven AI agent that runs a synthetic campaign launch through **DIPAAM: Data, Identity, Personalization, Activation, Autharization and Measurement**, with mandatory human approval gates.
+A brief-driven AI agent that runs a synthetic campaign launch through **DIPAM: Data, Identity, Personalization, Activation, and Measurement**, with mandatory human approval gates.
 
 > **Synthetic portfolio.** Vividance and DermaNova are fictional brands. All briefs, budgets, audiences, performance examples, and ROI figures are synthetic or clearly labelled assumptions. This project does not describe any real company's proprietary tools or internal systems.
 
