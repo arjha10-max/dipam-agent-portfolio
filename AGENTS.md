@@ -342,7 +342,7 @@ Outputs:
 
 - `05-measurement/kpi-tree.md`
 - `05-measurement/performance-report.md`
-- `05-measurement/optimization-recommendations.md`
+- `05-measurement/optimization-recommendation.md`
 - Supporting CSV files as needed
 
 Stop for `APPROVE OPTIMIZATION`.
