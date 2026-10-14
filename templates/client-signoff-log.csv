@@ -1,1 +1,2 @@
 signoff_id,signoff_type,approver_role,scope,required_before,request_date,approval_date,status,conditions,notes
+SIGN-001,APPROVE DATA,Media innovation lead,Data readiness and source log,Identity design,2027-01-15,,Pending,Use synthetic data only,Synthetic example row; replace in campaign output.

@@ -1,1 +1,2 @@
 profile_name,market,data_source,consent_basis,consent_status,activation_route,clean_room_required,suppression_required,retention_or_deletion_rule,privacy_law_or_policy_consideration,approval_required,readiness,escalation_required,notes
+Routine Hydrators (synthetic),Canada,Synthetic CRM,Express consent,Active subset only,Clean room,Yes,Yes,Delete 90 days after campaign end,PIPEDA and CASL,Yes,Conditional,Yes,Synthetic example row; replace in campaign output.

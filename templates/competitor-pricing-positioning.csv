@@ -1,1 +1,2 @@
 market,competitor_brand,product,pack_size,price,currency,price_per_unit,pack_role,positioning,claims,promotion_cadence,retail_presence,media_presence,source_id,source_date,synthetic_or_public,confidence,notes
+US,HydroPeak (synthetic),Electrolyte Water,500 mL,2.49,USD,0.15 USD per 100 mL,Core single serve,Everyday hydration,Hydrates during activity,Monthly feature,National grocery and convenience,Social video and retail media,SYN-COMP-001,2027-01-05,Synthetic,Medium,Synthetic example row; replace in campaign output.

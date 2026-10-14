@@ -1,1 +1,2 @@
 dependency_id,track,dependency,owner,due_date,status,dependent_task,severity,risk_description,mitigation,escalation_trigger,decision_needed,notes
+DEP-001,Identity,Confirm consent inventory before activation,Privacy lead,2027-02-01,Open,APPROVE IDENTITY gate,High,Unconfirmed consent basis could block activation,Use consented subset and clean-room route,Any non-consented source proposed,Confirm owner and timing,Synthetic example row; replace in campaign output.

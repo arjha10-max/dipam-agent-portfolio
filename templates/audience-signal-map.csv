@@ -1,1 +1,2 @@
 profile_name,profile_type,market,signal_type,signal_name,source,activation_route,consent_requirement,identity_method,exclusion_logic,measurement_hook,readiness,privacy_risk,confidence,notes
+Routine Hydrators (synthetic),CORE,Canada,Declared interest,Hydration routine content engagement,Synthetic CRM,Clean-room audience segment,Marketing consent required,Deterministic email hash,Suppress purchasers in last 30 days,Conversion lift holdout,Ready,Medium,Medium,Synthetic example row; replace in campaign output.

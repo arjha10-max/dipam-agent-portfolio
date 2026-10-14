@@ -1,1 +1,2 @@
 profile_name,profile_type,market,business_role,synthetic_size,reachable_size,business_value_1_5,growth_potential_1_5,ability_to_reach_1_5,data_readiness_1_5,creative_relevance_1_5,retail_fit_1_5,measurement_feasibility_1_5,compliance_risk_1_5,weighted_priority_score,priority_rank,recommended_role,confidence,rationale
+Routine Hydrators (synthetic),CORE,Canada,Primary demand driver,2500000,1200000,5,4,4,4,4,4,4,2,4.1,1,CORE,Medium,Synthetic example; balanced reach and relevance

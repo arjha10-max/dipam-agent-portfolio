@@ -1,1 +1,2 @@
 rule_id,metric,condition,threshold,severity,detection_source,business_impact,immediate_action,escalation_owner,approval_needed,status,notes
+SYN-ANOM-001,qualified_visit_rate,below_target_by_percent,10,Medium,Weekly performance export,May underdeliver qualified visits,Check tracking and audience mix,Measurement lead,No,Example,Synthetic example row; replace in campaign output.

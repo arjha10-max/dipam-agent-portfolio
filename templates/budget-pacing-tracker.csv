@@ -1,1 +1,2 @@
 date,market,channel,vendor,campaign,line_item,planned_spend,actual_spend,pacing_variance_amount,pacing_variance_percent,delivery_variance_percent,performance_flag,anomaly_rule_triggered,action,owner,status,notes
+2027-03-08,Canada,Social video,Synthetic Social A,Vividance Hydration + Focus 2027 (Synthetic),BLK-CA-001,25000,23800,-1200,-4.8,-6.0,Within tolerance,,Monitor next export,Media operations lead,Example,Synthetic example row; replace in campaign output.

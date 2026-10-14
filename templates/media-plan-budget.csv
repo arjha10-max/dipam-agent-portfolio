@@ -1,1 +1,2 @@
 scenario,market,profile_name,channel,platform_or_vendor,funnel_stage,phase,flight_start,flight_end,budget,currency,share_of_working_media,reach_assumption,frequency_assumption,kpi,kpi_target,rationale,confidence
+Base plan,Canada,Routine Hydrators (synthetic),Social video,Synthetic Social A,Consideration,Launch,2027-03-01,2027-04-30,500000,CAD,0.2083,1200000,4.2,Qualified visit rate,0.35,Synthetic example; launch reach against core profile,Medium

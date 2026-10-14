@@ -1,1 +1,2 @@
 field_name,field_type,description,source_file,source_platform,market_coverage,required,example,known_issue,validation_rule,notes
+qualified_visit_rate,decimal,Qualified visits divided by tracked visits,weekly-performance-export.csv,Synthetic Social A,Canada and US,Yes,0.38,Synthetic example only,0 <= value <= 1,Synthetic example row; replace in campaign output.

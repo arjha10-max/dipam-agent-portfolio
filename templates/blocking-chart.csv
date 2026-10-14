@@ -1,1 +1,2 @@
 version,change_date,line_id,market,profile_name,channel,vendor,placement,flight_start,flight_end,budget,currency,impressions_or_units,rate,frequency_cap,creative_rotation,change_reason,changed_by,approval_status,notes
+v1.0,2027-02-01,BLK-CA-001,Canada,Routine Hydrators (synthetic),Social video,Synthetic Social A,Reels 9:16,2027-03-01,2027-04-30,500000,CAD,5000000,10.00,3,3 synthetic variants,Initial example,Portfolio Builder,Draft,Synthetic example row; replace in campaign output.

@@ -1,1 +1,2 @@
 io_id,vendor,market,deal_id,pmp_id,line_item,audience,flight_start,flight_end,gross_budget,net_budget,currency,rate_type,rate,deliverables,cancellation_terms,makegood_terms,billing_contact,po_number,signature_status,status,notes
+IO-SYN-001,Synthetic Social A,Canada,DEAL-SYN-001,,BLK-CA-001,Routine Hydrators (synthetic),2027-03-01,2027-04-30,550000,500000,CAD,CPM,10.00,5000000 impressions,30 days notice,Underdelivery credited in-kind,billing@example.com,PO-SYN-001,Draft,Example,Synthetic example row; replace in campaign output.
